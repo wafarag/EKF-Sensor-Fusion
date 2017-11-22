@@ -12,8 +12,8 @@ For more details, please, check out the [source code directory](https://github.c
   - `FusionEKF.cpp` - initializes the filter, calls the predict function, calls the update function
   - `kalman_filter.cpp`- defines the predict function, the update function for lidar, and the update function for radar
   - `tools.cpp` - a function to calculate RMSE and the Jacobian matrix
-- `data`  a directory with two input files, provided by Udacity
-- `results`  a directory with output and log files
+- `data`  a directory with the input and output data files and records of the results
+- `build`  a directory with object and executable files
 - `Docs` a directory with files formats description
 
 ## Result
